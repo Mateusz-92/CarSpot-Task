@@ -17,7 +17,7 @@ The project is a landing page for a recruitment task based on the theme of a com
 
 ```bash
 
-git clone https://github.com/Mateusz-92/CarSpot.git
+https://github.com/Mateusz-92/CarSpot-Task.git
 
 npm install
 
