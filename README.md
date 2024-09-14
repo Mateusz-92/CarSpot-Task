@@ -17,7 +17,7 @@ The project is a landing page for a recruitment task based on the theme of a com
 
 ```bash
 
-https://github.com/Mateusz-92/CarSpot-Task.git
+git clone https://github.com/Mateusz-92/CarSpot-Task.git
 
 npm install
 
@@ -29,4 +29,5 @@ npm run serve
 ## Live 🎆
 
 https://carspot-task-mateusz-zasada.netlify.app/
+
 # CarSpot-Task
